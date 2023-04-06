@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: EA Org Issue
+about: For discussing (and optionally proposing solutions to) EA issues
 title: ''
 labels: ''
 assignees: ''
