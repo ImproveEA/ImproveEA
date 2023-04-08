@@ -1,9 +1,8 @@
 # Landing Page
-Hello, visitors! This is the first thing you'll see when you come here. We can add:
-- links to external resources such as [The EA forums](https://forum.effectivealtruism.org/)
+Hello, visitors! This is the ImproveEA GitHub Repository.
+- How to use this repository [link] (will link to forum post with detailed description)
+- [Join the Discord](https://discord.gg/YUCwDFyBpA) 
 - internal links to other documents maintained by us, such as [this](subdir)
-
-Let's add a new message here
 
 ## Direct Action Campaign
 Please consider getting involved in these direct actions!
