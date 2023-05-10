@@ -29,7 +29,7 @@ Suggest direct and immediate actions that concerned community members can take
 #Updates 
 Provide updates as necessary
 * Ex 1: I received response from [organization]
-   > Screenshot of email here]
+   * [Screenshot of email here]
    * I think response is [satisfactory/unsatisfactory] because [x] 
 * Ex 2: New proposed solution
 * Ex 3: New direct action suggestion
