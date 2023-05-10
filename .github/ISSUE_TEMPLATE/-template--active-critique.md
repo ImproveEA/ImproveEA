@@ -1,5 +1,5 @@
 ---
-name: Title
+name: "[Template] Active Critique"
 about: For discussing and proposing solutions to issues in EA
 title: ''
 labels: ''
